@@ -27,5 +27,5 @@
 
 <div>
 
-  <a href="https://www.linkedin.com/in/diogo-marques-de-oliveira-810683a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bkj%2B460yAQ0SMQRTM%2BQ1oWQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/diogo-marques-de-oliveira-810683a7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
